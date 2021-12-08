@@ -1,5 +1,5 @@
-echo "Introduction \n" >> /var/www/html/Default.html
-echo "My Name is Prabhat Singh. \n" >> /var/www/html/Default.html
-echo "I work as a Solution Architect. \n" >> /var/www/html/Default.html
-echo "My hobbies are learning and travelling. \n" >> /var/www/html/Default.html
-echo "This is an exercise of Custom Script Extension for Azure Linux VM. \n" >> /var/www/html/Default.html
+echo "<h1>Introduction</h1>" >> /var/www/html/Default.html
+echo "</h2>My Name is Prabhat Singh.</h2>" >> /var/www/html/Default.html
+echo "</h2>I work as a Solution Architect.</h2>" >> /var/www/html/Default.html
+echo "</h2>My hobbies are learning and travelling.</h2>" >> /var/www/html/Default.html
+echo "</h2>This is an exercise of Custom Script Extension for Azure Linux VM.</h2>" >> /var/www/html/Default.html
