@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/install_web.sh"],
+  "fileUris": ["https://raw.githubusercontent.com/prabhatsingh014/azurecustomscript/main/customscript.json"],
   "commandToExecute": "./install_web.sh"
 }
